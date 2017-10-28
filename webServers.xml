@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1391ab5f-788d-4929-ae94-d886bcaf8645" name="Ritterapotheke" url="http://ritterapotheke.de">
+        <fileTransfer host="ritterapotheke.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4184acfa-6d49-4149-b07a-72015c6ab1c2" name="Telegärtner" url="http://telegaertner-elektronik.de">
+        <fileTransfer host="telegaertner-elektronik.de" port="21" rootFolder="/relaunch-2016">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="860fb1bf-b011-44a5-a713-142191191b2c" name="Gymsound" url="http://media.gymsound.de">
+        <fileTransfer host="w01325c3.kasserver.com" port="21" rootFolder="/gymsoundMediabox">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

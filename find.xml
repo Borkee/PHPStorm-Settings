@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[bsk.org] - ...\joomla\templates\rt_afterburner2\css\custom.css'" />
-    <option name="defaultScopeName" value="File '[bsk.org] - ...\joomla\templates\rt_afterburner2\css\custom.css'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[bsk.org] - ...\joomla\templates\rt_afterburner2\css\custom.css'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

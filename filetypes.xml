@@ -6,11 +6,12 @@
       <mapping pattern=".htaccess 2" type="PLAIN_TEXT" />
       <mapping pattern="contao-console" type="PLAIN_TEXT" />
       <mapping pattern="currentFileNumber" type="PLAIN_TEXT" />
-      <mapping pattern="gs_musik_dataModel.php" type="PLAIN_TEXT" />
+      <mapping pattern="spdnsu" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="doctrine-dbal" type="PLAIN_TEXT" />
-      <mapping pattern="spdnsu" type="PLAIN_TEXT" />
+      <mapping pattern="gs_musik_dataModel.php" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="9" type="PLAIN_TEXT" />

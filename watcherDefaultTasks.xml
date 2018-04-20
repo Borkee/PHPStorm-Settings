@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="compile $ProjectFileDir$" />
       <option name="checkSyntaxErrors" value="false" />
       <option name="description" />
@@ -14,6 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="D:/Programme/Ruby24-x64/bin/compass.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="D:/Programme/Ruby23-x64/bin/scss.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -52,6 +54,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="D:/Ruby25-x64/bin/compass.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />

@@ -54,7 +54,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="D:/Ruby25-x64/bin/compass.bat" />
-      <option name="runOnExternalChanges" value="true" />
+      <option name="runOnExternalChanges" value="false" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />

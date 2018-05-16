@@ -17,7 +17,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="860fb1bf-b011-44a5-a713-142191191b2c" name="Gymsound" url="http://media.gymsound.de">
+      <webServer id="860fb1bf-b011-44a5-a713-142191191b2c" name="Gymsound Kasserver (alt)" url="http://media.gymsound.de">
         <fileTransfer host="w01325c3.kasserver.com" port="21" rootFolder="/gymsoundMediabox">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
